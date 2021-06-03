@@ -6,6 +6,7 @@ end
 
 # Reescrevendo o método existente na classe pai
 class CalculadoraFashion < Calculadora
+  # Overriding ou sobrescrita de método
   def somar(n1, n2)
     "A soma é #{n1 + n2}"
   end
