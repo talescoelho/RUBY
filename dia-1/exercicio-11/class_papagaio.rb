@@ -3,7 +3,7 @@ class Papagaio
   attr_accessor :idade
 
   # Roda de forma automática quando inicializa o projeto
-  def initialize(nome = "Fulano", idade = 0)
+  def initialize(nome = "Louro", idade = 0)
     @nome = nome
     @idade = idade
   end
@@ -13,7 +13,7 @@ class Papagaio
   end
 end
 
-papagaio1 = Papagaio.new("Amarelo", 3)
+papagaio1 = Papagaio.new("Rosa", 3)
 
 puts papagaio1.nome
 puts papagaio1.idade
