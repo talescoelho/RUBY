@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Estudos Ruby 👋</h1>
+<h1 align="center">Bem vindo ao meu repositórios de Estudos do Ruby 👋</h1>
 <p>
   <a href="https://www.ruby-lang.org/pt/documentation/" target="_blank">
     Documentação do Ruby
