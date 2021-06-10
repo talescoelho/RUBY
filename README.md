@@ -1,11 +1,17 @@
 <h1 align="center">Welcome to Estudos Ruby 👋</h1>
 <p>
   <a href="https://www.ruby-lang.org/pt/documentation/" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    Documentação do Ruby
   </a>
 </p>
 
-> Aprendendo e fazendo exercícios em Ruby
+<p>
+  <a href="https://guides.rubyonrails.org/" target="_blank">
+    Documentação do Ruby on Rails
+  </a>
+</p>
+
+> Aprendendo e fazendo exercícios em Ruby e Ruby on Rails
 
 ## Author
 
